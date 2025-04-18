@@ -1,0 +1,1 @@
+Conseguimos identificar facilmente os elementos e parâmetros do Sistema

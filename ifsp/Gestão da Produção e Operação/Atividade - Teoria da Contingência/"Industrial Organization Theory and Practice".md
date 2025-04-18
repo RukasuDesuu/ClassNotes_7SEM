@@ -1,0 +1,1 @@
+Esta obra pioneira apresenta os resultados de um estudo detalhado sobre como diferentes tecnologias de produção influenciam as estruturas organizacionais. Woodward demonstrou que não existe uma única forma ideal de organização; em vez disso, a estrutura mais eficaz depende do tipo de tecnologia utilizada pela empresa.

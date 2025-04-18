@@ -1,0 +1,1 @@
+$$e^{-\tau ds} \approx \frac{1-0,5\tau_ds}{1+0,5\tau_ds}$$

@@ -1,0 +1,1 @@
+Estabelece os objetivos da empresa, especificando a forma como serão alcançados. Parte de uma sondagem do futuro, desenvolvendo um plano de ações para atingir as metas traçadas. É a primeira das funções, já que servirá de base diretora à operacionalização

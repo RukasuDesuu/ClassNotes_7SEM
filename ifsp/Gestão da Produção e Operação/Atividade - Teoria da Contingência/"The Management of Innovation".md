@@ -1,0 +1,1 @@
+Burns e Stalker introduzem os conceitos de sistemas mecanicistas e orgânicos, sugerindo que a estrutura organizacional deve variar conforme o ambiente externo. Em ambientes estáveis, estruturas mecanicistas (rígidas e hierárquicas) são mais eficazes, enquanto em contextos dinâmicos, estruturas orgânicas (flexíveis e adaptativas) são preferíveis. ​

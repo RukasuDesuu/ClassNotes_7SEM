@@ -1,0 +1,1 @@
+Relacionadas com as habilidades técnicas.

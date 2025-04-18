@@ -1,0 +1,1 @@
+O interesse de todos os funcionários da empresa não deve prevalecer sobre os interesses da organização como um todo.

@@ -1,0 +1,1 @@
+Necessidade de estabelecer regras de conduta e de trabalho válidas para todos os funcionários. A ausência de disciplina gera o caos na organização.

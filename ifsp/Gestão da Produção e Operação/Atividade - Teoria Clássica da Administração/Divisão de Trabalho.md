@@ -1,0 +1,1 @@
+Especialização dos funcionários desde o topo da hierarquia até os operários da fábrica, assim, favorecendo a eficiência da produção aumentando a produtividade.

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"bc2590cbad66ba06","type":"text","text":"# TEORIA CLÁSSICA DA ADMINISTRAÇÃO","x":-580,"y":-482,"width":392,"height":120},
+		{"id":"d35ef67eb3a42a7f","type":"text","text":"## Contexto Histórico\nFoi idealizado por **Henry Fayol**, surgiu logo após a **Revolução Industrial**, devido ao rápido crescimento das empresas.\nSua preocupação era com a **estrutura organizacional**","x":31,"y":-260,"width":389,"height":216},
+		{"id":"c6f74a19c38b9806","type":"text","text":"# **Princípios**\n1. **[[Divisão de Trabalho]]**\n2. **[[Autoridade e Responsabilidade]]**\n3. **[[Disciplina]]**\n4. **[[Unidade de Comando]]**\n5. **[[Unidade de Direção]]**\n6. **[[Subordinação dos Interesses individuais ao bem comum]]**\n7. **[[Remuneração]]**\n8. **[[Centralização]]**\n9. **[[Cadeia Escalar]]**\n10. **[[Ordem]]**\n11. **[[Equidade]]**\n12. **[[Estabilidade de Equipe]]**\n13. **[[Iniciativa]]**\n14. **[[ Espírito de equipe]]**","x":-620,"y":-20,"width":560,"height":478},
+		{"id":"ac38ac01c8a5dabe","type":"text","text":"Se baseia fundamentalmente na importância da estrutura nas organizações formais, sem levar em conta o fator humano","x":31,"y":-482,"width":276,"height":196},
+		{"id":"a325d7e692b471c5","type":"text","text":"## **Funções Empresariais**\n1. **[[Funções Técnicas]]**\n2. **[[Função Comerciais]]**\n3. **[[Funções Financeiras]]**\n4. **[[Funções de Segurança]]**\n5. **[[Funções Contábeis]]**\n6. **[[Funções Administrativas]]**","x":31,"y":-20,"width":340,"height":254},
+		{"id":"4ef62cda1f66ecd4","type":"text","text":"## **Elementos das Funções Administrativas**\n1. **[[Planejar]]**\n2. **[[Organizar]]**\n3. **[[Comandar]]**\n4. **[[Coordenar]]**\n5. **[[Controlar]]**","x":12,"y":317,"width":378,"height":263}
+	],
+	"edges":[
+		{"id":"5d21668b38f52633","fromNode":"bc2590cbad66ba06","fromSide":"right","toNode":"d35ef67eb3a42a7f","toSide":"left"},
+		{"id":"304085b2148e61c5","fromNode":"bc2590cbad66ba06","fromSide":"bottom","toNode":"c6f74a19c38b9806","toSide":"top"},
+		{"id":"bc62d464a561482c","fromNode":"c6f74a19c38b9806","fromSide":"right","toNode":"a325d7e692b471c5","toSide":"left"},
+		{"id":"3811654b2ea706a4","fromNode":"bc2590cbad66ba06","fromSide":"right","toNode":"ac38ac01c8a5dabe","toSide":"left"},
+		{"id":"166b13ee40f84ad3","fromNode":"a325d7e692b471c5","fromSide":"bottom","toNode":"4ef62cda1f66ecd4","toSide":"top"}
+	]
+}

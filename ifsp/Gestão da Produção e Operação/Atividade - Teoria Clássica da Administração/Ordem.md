@@ -1,0 +1,1 @@
+Deve ser mantida em toda organização, preservando um lugar para cada coisa e cada coisa em seu lugar.

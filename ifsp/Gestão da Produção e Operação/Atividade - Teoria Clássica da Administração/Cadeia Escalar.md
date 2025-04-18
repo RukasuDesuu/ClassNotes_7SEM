@@ -1,0 +1,1 @@
+Defesa incondicional da estrutura hierárquica, respeitando à risca uma linha de autoridade fixa.

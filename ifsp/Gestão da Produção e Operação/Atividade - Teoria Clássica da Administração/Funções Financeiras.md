@@ -1,0 +1,1 @@
+Relacionadas com a procura e gerência 

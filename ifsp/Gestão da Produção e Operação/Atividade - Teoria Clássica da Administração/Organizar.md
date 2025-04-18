@@ -1,0 +1,1 @@
+É a forma de coordenar todos os recursos da empresa e das organizações, sejam humanos, financeiros ou materiais, alocando-os da melhor forma segundo o planejamento estabelecido.

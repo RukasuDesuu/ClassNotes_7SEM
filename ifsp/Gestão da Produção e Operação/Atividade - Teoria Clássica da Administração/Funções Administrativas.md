@@ -1,0 +1,1 @@
+Relacionadas com a integração das outras cinco funções.

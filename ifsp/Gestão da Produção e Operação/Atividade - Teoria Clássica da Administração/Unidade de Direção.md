@@ -1,0 +1,1 @@
+O controle único é possibilitado com a aplicação de um plano para grupo de atividades com os mesmos objetivos.

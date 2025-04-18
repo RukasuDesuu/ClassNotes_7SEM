@@ -1,0 +1,1 @@
+Conseguimos apenas ler a entrada e saída do sistema, não sabemos quais elementos estão envolvidos

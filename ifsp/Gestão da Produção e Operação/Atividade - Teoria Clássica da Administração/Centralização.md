@@ -1,0 +1,1 @@
+Fayol acreditava que os gerentes devem manter a responsabilidade final, mas eles também precisam de dar autoridade a seus subordinados que eles possam realizar seu trabalho adequadamente. O problema é encontrar o melhor grau de centralização em cada caso.

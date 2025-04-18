@@ -1,0 +1,1 @@
+A implantação de qualquer planejamento seria inviável sem a coordenação das atitudes e esforços de toda a empresa, almejando as metas traçadas.

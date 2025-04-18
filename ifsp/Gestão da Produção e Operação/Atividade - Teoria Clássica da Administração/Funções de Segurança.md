@@ -1,0 +1,1 @@
+Relacionadas com a proteção e preservação dos bens e das pessoas.

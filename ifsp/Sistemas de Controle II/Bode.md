@@ -1,0 +1,1 @@
+Um diagrama de Bode é utilizado na engenharia elétrica e na teoria de controle para a representação da resposta em frequência de um circuito elétrico.

@@ -1,0 +1,1 @@
+Controlar é estabelecer padrões e medidas de desempenho que permitam assegurar que as atitudes empregadas são as mais compatíveis com o que a empresa espera. O controle das atividades desenvolvidas permite maximizar a probabilidade de que tudo ocorra conforme as regras estabelecidas e ditadas.

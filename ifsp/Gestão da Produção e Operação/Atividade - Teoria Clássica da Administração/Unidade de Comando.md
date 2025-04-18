@@ -1,0 +1,1 @@
+Um funcionário deve receber ordens de apenas um chefe, evitando contra-ordens.

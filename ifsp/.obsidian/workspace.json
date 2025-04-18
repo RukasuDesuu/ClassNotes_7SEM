@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "671df3be89d276dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4245cca86ef7845f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0fc26c53d2fa581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processamentos Analógicos de Sinais/Transformadas_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformadas_2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08de449c15e9c968",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c914689ead1372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f3c66deae6c0a81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a91de3ac73ebe109",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "11d9ee2faa62febb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b12a3fcfb667041",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a13ccefbcc5a071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "819ed9c8d731f81d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7ef3d1fd7d1e7afd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Identificação de Sistemas/Introdução da Matéria (Identificação de Sistemas).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introdução da Matéria (Identificação de Sistemas)"
+            }
+          },
+          {
+            "id": "0fbdc8e105affda1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "281bb928349b2a95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redes e Protocolos Industriais/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "a5c85a50327e46c3",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
+            }
+          },
+          {
+            "id": "3170a9a878b6c960",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "25c5219554bfdbf1",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a0fc26c53d2fa581",
+  "lastOpenFiles": [
+    "Segurança do Trabalho/Continuação sobre as Normas.md",
+    "Processamentos Analógicos de Sinais/Transformadas_2.md",
+    "Identificação de Sistemas/Métodos Determinísticos_2.md",
+    "Identificação de Sistemas/Aproximação de Padé.md",
+    "Identificação de Sistemas/Métodos Determinísticos.md",
+    "Identificação de Sistemas/Linearidade.canvas",
+    "Identificação de Sistemas/Atividades/Atividade 2 - identificação de Sistemas.md",
+    "Identificação de Sistemas/Atividades/Atividade 1 - Identificação de Sistemas.md",
+    "Gestão da Produção e Operação/Teorias da Administração.md",
+    "Gestão da Produção e Operação/Apresentação em Grupo.md",
+    "Gestão da Produção e Operação/Trabalho em Grupo.md",
+    "Gestão da Produção e Operação/Introdução da Matéria (Gestão da Produção e Operação).md",
+    "Gestão da Produção e Operação/Atividade - Teoria da Contingência/Atividade - Teoria da Contingência.canvas",
+    "Gestão da Produção e Operação/Atividade - Teoria da Contingência/\"The Management of Innovation\".md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Pasted image 20250413182803.png",
+    "Laboratório de Sistemas de controle II/Projeto.md",
+    "Controle de Processos e Servomecanismos/Simulação do Sistema.md",
+    "Instrumentação Eletro-Eletrônica/Resoluções.md",
+    "Instrumentação Eletro-Eletrônica/Untitled",
+    "Identificação de Sistemas/Atividades/_images/lambda-plot.png",
+    "Pasted image 20250413165952.png",
+    "Identificação de Sistemas/Introdução da Matéria (Identificação de Sistemas).md",
+    "Identificação de Sistemas/Atividades/_images/normalized-slope.png",
+    "Identificação de Sistemas/Atividades/_images/output.png",
+    "Identificação de Sistemas/Modelagem de um Sistema de Vazão.md",
+    "Identificação de Sistemas/Atividades/_images/exercicio2-step.png",
+    "Identificação de Sistemas/Atividades/_images/exercicio1-step.png",
+    "Identificação de Sistemas/Atividades/_images",
+    "Identificação de Sistemas/Atividades/Untitled/Untitled.md",
+    "Redes e Protocolos Industriais/Mais sobre Protocolos de Rede.md",
+    "Identificação de Sistemas/Atividades",
+    "Sistemas de Controle II/Continuação LGR e Diagrama de Bode.md",
+    "Controle de Processos e Servomecanismos/Modelagem de um Sistema Fluídico.md",
+    "Processamentos Analógicos de Sinais/Transformadas.md",
+    "Segurança do Trabalho/Trabalho sobre as NR1 a NR4.md",
+    "Untitled 1.md",
+    "Gestão da Produção e Operação/Atividade - Teoria da Contingência/\"Industrial Organization Theory and Practice\".md",
+    "Gestão da Produção e Operação/Atividade - Teoria Clássica da Administração/Atividade - Teoria Clássica da Administração.canvas",
+    "Gestão da Produção e Operação/Atividade - Teoria da Contingência",
+    "Gestão da Produção e Operação/Atividade - Teoria Clássica da Administração",
+    "Controle de Processos e Servomecanismos/Práticas",
+    "Instrumentação Eletro-Eletrônica/Práticas",
+    "Instrumentação Eletro-Eletrônica",
+    "Redes e Protocolos Industriais",
+    "Sistemas de Controle II"
+  ]
+}

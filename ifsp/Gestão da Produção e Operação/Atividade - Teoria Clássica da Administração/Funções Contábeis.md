@@ -1,0 +1,1 @@
+Relacionadas com inventários, registros, balanços, custos e estatísticas.

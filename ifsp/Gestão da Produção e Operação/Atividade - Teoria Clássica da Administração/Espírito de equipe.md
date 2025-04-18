@@ -1,0 +1,1 @@
+O trabalho deve ser conjunto, facilitado pela comunicação dentro da equipe. Os integrantes de um mesmo grupo precisam ter um senso de `unidade`

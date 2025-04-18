@@ -1,0 +1,78 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "_extras/_templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Identificação de Sistemas",
+      "template": "_extras/_templates/IDSE7_template.md"
+    },
+    {
+      "folder": "Segurança do Trabalho",
+      "template": "_extras/_templates/SGTE7_template.md"
+    },
+    {
+      "folder": "Processamentos Analógicos de Sinais",
+      "template": "_extras/_templates/PASE7_template.md"
+    },
+    {
+      "folder": "Controle de Processos e Servomecanismos",
+      "template": "_extras/_templates/CPSE7_template.md"
+    },
+    {
+      "folder": "Sistemas de Controle II",
+      "template": "_extras/_templates/SC2E7_template.md"
+    },
+    {
+      "folder": "Redes e Protocolos Industriais",
+      "template": "_extras/_templates/RPIE7_template.md"
+    },
+    {
+      "folder": "Instrumentação Eletro-Eletrônica",
+      "template": "_extras/_templates/IEEE7_template.md"
+    },
+    {
+      "folder": "Instrumentação Eletro-Eletrônica/Práticas",
+      "template": "_extras/_templates/IEEE7_pratica_template.md"
+    },
+    {
+      "folder": "Laboratório de Sistemas de controle II",
+      "template": "_extras/_templates/LSCE7_template.md"
+    },
+    {
+      "folder": "Gestão da Produção e Operação",
+      "template": "_extras/_templates/GPOE7_template.md"
+    },
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

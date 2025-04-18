@@ -1,0 +1,1 @@
+A justiça deve prevalecer em toda organização, justificando a lealdade e a devoção de cada funcionário à empresa. Direitos iguais.

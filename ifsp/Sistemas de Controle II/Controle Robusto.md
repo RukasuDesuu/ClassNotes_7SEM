@@ -1,0 +1,1 @@
+Se consegue um sistema linear que acompanha o sinal de saída mesmo quando sujeito a ruídos e/ou perturbacções

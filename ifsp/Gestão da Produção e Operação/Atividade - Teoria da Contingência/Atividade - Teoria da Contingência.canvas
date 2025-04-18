@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"exemplos","type":"text","text":"## Exemplos Práticos\n- Indústrias com processos rotineiros: estrutura mecanicista\n- Startups e ambientes dinâmicos: estrutura orgânica","x":500,"y":321,"width":380,"height":209},
+		{"id":"intro","type":"text","text":"# Teoria da Contingência\nA Teoria da Contingência propõe que **não existe uma única forma ideal de gestão** — a melhor abordagem depende das variáveis ambientais e organizacionais.","x":-8,"y":-272,"width":400,"height":195},
+		{"id":"origem","type":"text","text":"## Origem\nSurgiu nas décadas de 1960 e 1970 como reação às limitações das teorias clássicas da administração.","x":494,"y":-331,"width":350,"height":167},
+		{"id":"principios","type":"text","text":"## Princípios Fundamentais\n- Não há uma única forma certa de organizar\n- A estrutura depende do ambiente\n- A eficácia organizacional é contingente","x":491,"y":-106,"width":350,"height":258},
+		{"id":"fatores","type":"text","text":"## Fatores Contingenciais\n- Ambiente externo\n- Tecnologia\n- Tamanho da organização\n- Estratégia empresarial","x":92,"y":146,"width":350,"height":221},
+		{"id":"aplicacoes","type":"text","text":"## Aplicações na Gestão\n- Adaptação da liderança ao contexto\n- Diagnóstico situacional para definir estrutura\n- Tomada de decisão baseada em variáveis externas","x":6,"y":516,"width":400,"height":212},
+		{"id":"criticas","type":"text","text":"## Críticas\n- Complexidade na análise de variáveis\n- Dificuldade de padronização\n- Subjetividade nos diagnósticos","x":470,"y":778,"width":350,"height":202},
+		{"id":"autores","type":"text","text":"## Principais Autores\n- Joan Woodward\n- Paul Lawrence & Jay Lorsch\n- Tom Burns & G. M. Stalker","x":934,"y":-174,"width":300,"height":187},
+		{"id":"bd892384347f1bd4","type":"text","text":"# Principais Obras Produzidas\n- [[\"Industrial Organization Theory and Practice\" ]] (1965)\n- [[\"Organization and Environment Managing Differentiation and Integration\"]] (1967)\n- [[\"The Management of Innovation\"]] (1961)","x":1001,"y":125,"width":557,"height":180}
+	],
+	"edges":[
+		{"id":"077006011c3e714d","fromNode":"intro","fromSide":"right","toNode":"origem","toSide":"left"},
+		{"id":"8f6f6b61cb53725b","fromNode":"intro","fromSide":"right","toNode":"principios","toSide":"left"},
+		{"id":"2a12c858e4c21c76","fromNode":"origem","fromSide":"right","toNode":"autores","toSide":"top"},
+		{"id":"60bc22e168860d66","fromNode":"principios","fromSide":"bottom","toNode":"fatores","toSide":"right"},
+		{"id":"88e628daa036d26b","fromNode":"fatores","fromSide":"bottom","toNode":"exemplos","toSide":"left"},
+		{"id":"0df7f3c8c2d1902d","fromNode":"exemplos","fromSide":"bottom","toNode":"aplicacoes","toSide":"right"},
+		{"id":"adec451dd6efd3ec","fromNode":"aplicacoes","fromSide":"bottom","toNode":"criticas","toSide":"left"},
+		{"id":"dc5cb43b72d29ec7","fromNode":"autores","fromSide":"bottom","toNode":"bd892384347f1bd4","toSide":"top"}
+	]
+}

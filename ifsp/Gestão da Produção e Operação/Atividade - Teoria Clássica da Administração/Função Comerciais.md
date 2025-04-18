@@ -1,0 +1,1 @@
+Relacionadas com a compra, venda e permutação de produtos ou serviços.

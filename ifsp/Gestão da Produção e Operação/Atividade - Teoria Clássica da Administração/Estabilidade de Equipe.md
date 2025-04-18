@@ -1,0 +1,1 @@
+Uma rotatividade alta tem consequências negativas sobre desempenho da empresa e o moral dos funcionários.

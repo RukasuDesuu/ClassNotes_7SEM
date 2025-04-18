@@ -1,0 +1,1 @@
+Remuneração de trabalho deve ser justa para ambos, empregados e empregadores.

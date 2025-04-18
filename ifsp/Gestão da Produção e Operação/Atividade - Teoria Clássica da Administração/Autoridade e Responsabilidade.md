@@ -1,0 +1,1 @@
+Autoridade é dar ordens que teoricamente serão obedecidas. Responsabilidade é a contrapartida da autoridade. Deve-se levar em conta o direito de dar ordens e exigir obediência, chegando a um bom equilíbrio entre autoridade e responsabilidade.

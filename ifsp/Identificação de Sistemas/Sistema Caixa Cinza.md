@@ -1,0 +1,1 @@
+Conseguimos identificar os elementos do Sistema, porém não sabemos seus parâmetros

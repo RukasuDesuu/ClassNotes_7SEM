@@ -1,0 +1,1 @@
+Deve ser entendida como a capacidade de estabelecer um plano e cumpri-lo.

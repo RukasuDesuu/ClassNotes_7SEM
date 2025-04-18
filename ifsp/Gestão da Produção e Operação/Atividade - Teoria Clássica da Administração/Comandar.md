@@ -1,0 +1,1 @@
+Faz com que os subordinados executem o que deve ser feito. Pressupõe que as relações hierárquicas estejam claramente definidas, ou seja, que a forma como administradores e subordinados se influenciam esteja explícita, assim como o grau de participação e colaboração de cada um para a realização dos objetivos definidos.
