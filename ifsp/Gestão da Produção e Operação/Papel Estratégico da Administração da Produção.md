@@ -28,4 +28,14 @@ Segundo alguns autores a produção é o motivo para a existência de uma empres
 - O objetivo primário de uma empresa é basicamente produzir algo capaz de satisfazer necessidades da sociedade do mercado ou do consumidor, (...). Esse costuma ser o seu objetivo primário e fundamental. Ao redor dele, a empresa define sua missão organizacional e sua visão de futuro.
 - O objetivo secundário é a obtenção de lucro ou retorno do investimento aplicado ao capital e trabalho.
 - Outros objetivos vão se agregando ao negócio até chegar Pa missão da empresa e à sua visão de futuro. Contudo, preliminarmente, cada negócio visa à produção de alguma coisa. É por meio de fenômeno da produção que se desdobram todos os demais objetivos da empresa (CHIAVENATO, 2014)
+- Em alguns tipos de organizações, é fácil visualizar a função produção mesmo se nunca tivermos visto, por exemplo, uma linha de montagem de automóveis.
+- Mas qual a função produção de um agência de propaganda?
+- Qualquer empresa que produza algo, deve usar recursos para fazer isso, e, portanto, deve ter uma atividade de produção
+- Mesmo as organizações sem fins lucrativos também usam seus recursos para produzir serviços, não com o fim de objeter lucro,m as de servir a sociedade de alguma maneira.
+- Veja alguns exemplos sobre o que a administração da produção faz em diferentes organizações:
+	- Linha de montagem de automóveis
+	- Consultoria gerencial
+	- Agência de propaganda
+	- Médico
+	- Equipes de ajuda humanitária
 - 
