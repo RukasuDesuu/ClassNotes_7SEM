@@ -37,4 +37,4 @@ Continuação de termos que são comuns na área de instrumentação, como
   
   
 ## Atividade Prática
-Atividade prática realizada, [[IEEE_7_EDP01_Joilson_Lucas_Paulo]]
+Atividade prática realizada, [[IEEE_7_EDP_01_Joilson_Lucas_Paulo]]

@@ -1,6 +1,7 @@
 [
   "templater-obsidian",
-  "metaedit",
   "oz-calendar",
-  "better-export-pdf"
+  "canvas-links",
+  "advanced-canvas",
+  "obsidian-tikzjax"
 ]

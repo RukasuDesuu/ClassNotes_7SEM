@@ -1,0 +1,8 @@
+- [x] [Atividade 2 - Processamento de Sinais](https://moodle.sjc.ifsp.edu.br/mod/assign/view.php?id=111847)
+- [ ] Estudar para Identificação de Sistemas (Realizar a Lista e preparar o papel de consulta)
+- [x] EDT-03 - Instrumentação Eletro-Eletrônica
+- [x] EDTP B1
+- [x] EDTP B2 
+- [ ] Realizar Atividades da lista de Lab. sistemas de controle II [[Revisão - Resposta em Frequência]]
+- [ ] Resumo da matéria de Segurança do Trabalho (ISO 14000)
+- [ ] Finalizar Lista do Hirata (Controle de processos e servomecanismos)

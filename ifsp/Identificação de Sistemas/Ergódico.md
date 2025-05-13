@@ -1,0 +1,1 @@
+O sistema é digo **Ergótico** quando a média de **n** amostras num determinado período (grande o suficiente) possuem valores iguais à sua média temporal

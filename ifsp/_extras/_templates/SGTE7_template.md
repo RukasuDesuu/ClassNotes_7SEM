@@ -1,5 +1,5 @@
 ---
 date: <% tp.date.now("DD-MM-YYYY") %>
-professor: Leandro Rocha
+professor: Irineu Santos
 ---
 # Conteúdo da Aula
